@@ -325,16 +325,6 @@
  {"arcs":[[-2016,-2006,2385,2386,2387,2388,2389]],"type":"Polygon","properties":{"NUTS_ID":"NL111","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Oost-Groningen","FID":"NL111"},"id":"NL111"},  
  {"arcs":[[-2389,2390,2391]],"type":"Polygon","properties":{"NUTS_ID":"NL112","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Delfzijl en omgeving","FID":"NL112"},"id":"NL112"},  
  {"arcs":[[[-2391,-2388,2392,2393,2394,2395]],[[2396]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NL113","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Overig Groningen","FID":"NL113"},"id":"NL113"},  
- {"arcs":[[2397,2398,2399,2400,2401,2402,2403]],"type":"Polygon","properties":{"NUTS_ID":"NO022","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Oppland","FID":"NO022"},"id":"NO022"},  
- {"arcs":[[2404,2405,2406,2407]],"type":"Polygon","properties":{"NUTS_ID":"NO031","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Østfold","FID":"NO031"},"id":"NO031"},  
- {"arcs":[[2408,2409,2410,2411,2412,2413,2414,-2401]],"type":"Polygon","properties":{"NUTS_ID":"NO032","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Buskerud","FID":"NO032"},"id":"NO032"},  
- {"arcs":[[2415,-2412,2416]],"type":"Polygon","properties":{"NUTS_ID":"NO033","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Vestfold","FID":"NO033"},"id":"NO033"},  
- {"arcs":[[-2416,2417,2418,2419,2420,-2413]],"type":"Polygon","properties":{"NUTS_ID":"NO034","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Telemark","FID":"NO034"},"id":"NO034"},  
- {"arcs":[[2421,2422,2423,-2419]],"type":"Polygon","properties":{"NUTS_ID":"NO041","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Aust-Agder","FID":"NO041"},"id":"NO041"},  
- {"arcs":[[2424,2425,-2423]],"type":"Polygon","properties":{"NUTS_ID":"NO042","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Vest-Agder","FID":"NO042"},"id":"NO042"},  
- {"arcs":[[[-2420,-2424,-2426,2426,2427,2428,2429]],[[2430]],[[2431]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NO043","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Rogaland","FID":"NO043"},"id":"NO043"},  
- {"arcs":[[[-2414,-2421,-2430,2432,2433]],[[-2428,2434]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NO051","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Hordaland","FID":"NO051"},"id":"NO051"},  
- {"arcs":[[[2435,-2402,-2415,-2434,2436]],[[2437]],[[2438]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NO052","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Sogn og Fjordane","FID":"NO052"},"id":"NO052"},  
  {"arcs":[[-2102,-2110,2439,2440,-2097]],"type":"Polygon","properties":{"NUTS_ID":"ES114","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Pontevedra","FID":"ES114"},"id":"ES114"},  
  {"arcs":[[2441,2442,-2099,2443]],"type":"Polygon","properties":{"NUTS_ID":"ES120","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Asturias","FID":"ES120"},"id":"ES120"},  
  {"arcs":[[2444,2445,2446,2447,2448,2449,-2442,2450]],"type":"Polygon","properties":{"NUTS_ID":"ES130","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Cantabria","FID":"ES130"},"id":"ES130"},  
@@ -391,8 +381,6 @@
  {"arcs":[[2601]],"type":"Polygon","properties":{"NUTS_ID":"ES707","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"La Palma","FID":"ES707"},"id":"ES707"},  
  {"arcs":[[2602]],"type":"Polygon","properties":{"NUTS_ID":"ES708","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Lanzarote","FID":"ES708"},"id":"ES708"},  
  {"arcs":[[2603]],"type":"Polygon","properties":{"NUTS_ID":"ES709","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Tenerife","FID":"ES709"},"id":"ES709"},  
- {"arcs":[[[2652,-2403,-2436,2653]],[[2654]],[[2655]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NO053","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Møre og Romsdal","FID":"NO053"},"id":"NO053"},  
- {"arcs":[[[2656,2657,-2404,-2653,2658,2659,2660,2661]],[[2662]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NO060","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Trøndelag","FID":"NO060"},"id":"NO060"},  
  {"arcs":[[[2663,2664,2665,-2395]],[[2666]],[[2667]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NL124","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Noord-Friesland","FID":"NL124"},"id":"NL124"},  
  {"arcs":[[2668,2669,2670,2671,2672,-2665]],"type":"Polygon","properties":{"NUTS_ID":"NL125","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Zuidwest-Friesland","FID":"NL125"},"id":"NL125"},  
  {"arcs":[[2673,2674,2675,-2669,-2664,-2394]],"type":"Polygon","properties":{"NUTS_ID":"NL126","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Zuidoost-Friesland","FID":"NL126"},"id":"NL126"},  
@@ -516,9 +504,6 @@
  {"arcs":[[3087,3088]],"type":"Polygon","properties":{"NUTS_ID":"UKK11","LEVL_CODE":3,"CNTR_CODE":"UK","NUTS_NAME":"Bristol, City of","FID":"UKK11"},"id":"UKK11"},  
  {"arcs":[[-1319,-1345,3089,-901,-2754,-2756]],"type":"Polygon","properties":{"NUTS_ID":"NL422","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Midden-Limburg","FID":"NL422"},"id":"NL422"},  
  {"arcs":[[-1344,-1358,-1004,-910,-997,-907,-902,-3090]],"type":"Polygon","properties":{"NUTS_ID":"NL423","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Zuid-Limburg","FID":"NL423"},"id":"NL423"},  
- {"arcs":[[3090,3091,-2409,-2400,3092]],"type":"Polygon","properties":{"NUTS_ID":"NO011","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Oslo","FID":"NO011"},"id":"NO011"},  
- {"arcs":[[[3093,-3020,-2407,3094,-3093,-2399]],[[3095,-2410,-3092]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NO012","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Akershus","FID":"NO012"},"id":"NO012"},  
- {"arcs":[[-3036,-3026,-3021,-3094,-2398,-2658]],"type":"Polygon","properties":{"NUTS_ID":"NO021","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Hedmark","FID":"NO021"},"id":"NO021"},  
  {"arcs":[[[3103,3104,3105,3106,3107,-3075,-3072]],[[3108]],[[3109]],[[3110]]],"type":"MultiPolygon","properties":{"NUTS_ID":"HR031","LEVL_CODE":3,"CNTR_CODE":"HR","NUTS_NAME":"Primorsko-goranska županija","FID":"HR031"},"id":"HR031"},  
  {"arcs":[[3111,3112,3113,-3105,3114]],"type":"Polygon","properties":{"NUTS_ID":"HR032","LEVL_CODE":3,"CNTR_CODE":"HR","NUTS_NAME":"Ličko-senjska županija","FID":"HR032"},"id":"HR032"},  
  {"arcs":[[[3115,3116,3117,-3113]],[[3118]],[[3119]],[[3120]],[[3121]]],"type":"MultiPolygon","properties":{"NUTS_ID":"HR033","LEVL_CODE":3,"CNTR_CODE":"HR","NUTS_NAME":"Zadarska županija","FID":"HR033"},"id":"HR033"},  
@@ -610,16 +595,8 @@
  {"arcs":[[3366,3367,-3206,-3366,-802,-301]],"type":"Polygon","properties":{"NUTS_ID":"SK021","LEVL_CODE":3,"CNTR_CODE":"SK","NUTS_NAME":"Trnavský kraj","FID":"SK021"},"id":"SK021"},  
  {"arcs":[[3368,3369,-3367,-300,-310,3370]],"type":"Polygon","properties":{"NUTS_ID":"SK022","LEVL_CODE":3,"CNTR_CODE":"SK","NUTS_NAME":"Trenčiansky kraj","FID":"SK022"},"id":"SK022"},  
  {"arcs":[[3371,-3223,-3189,-3198,-3203,-3368,-3370]],"type":"Polygon","properties":{"NUTS_ID":"SK023","LEVL_CODE":3,"CNTR_CODE":"SK","NUTS_NAME":"Nitriansky kraj","FID":"SK023"},"id":"SK023"},  
- {"arcs":[[3372,3373,-3371,-309,-314,3374,3375]],"type":"Polygon","properties":{"NUTS_ID":"SK031","LEVL_CODE":3,"CNTR_CODE":"SK","NUTS_NAME":"Žilinský kraj","FID":"SK031"},"id":"SK031"},  
- {"arcs":[[[3376,3377,-3043,-3039,-2662,3378,3379]],[[3380]],[[3381]],[[3382]],[[3383]],[[3384]],[[3385]],[[3386]],[[3387]],[[3388]],[[3389]],[[3390]],[[3391]],[[3392]],[[3393]],[[3394]],[[3395]],[[3396]],[[3397]],[[3398]],[[3399]],[[3400]],[[3401]],[[3402]],[[-2660,3403]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NO071","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Nordland","FID":"NO071"},"id":"NO071"},  
- {"arcs":[[[-2115,-3044,-3378,3404,-3380,3405,3406]],[[3407]],[[3408]],[[3409]],[[3410]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NO072","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Troms","FID":"NO072"},"id":"NO072"},  
- {"arcs":[[[-2116,-3407,3411]],[[3412]],[[3413]],[[3414]],[[3415]],[[3416]],[[3417]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NO073","LEVL_CODE":3,"CNTR_CODE":"NO","NUTS_NAME":"Finnmark","FID":"NO073"},"id":"NO073"},  
- {"arcs":[[3418]],"type":"Polygon","properties":{"NUTS_ID":"PL213","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Miasto Kraków","FID":"PL213"},"id":"PL213"},  
- {"arcs":[[3419,3420,3421,3422,3423,3424],[-3419]],"type":"Polygon","properties":{"NUTS_ID":"PL214","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Krakowski","FID":"PL214"},"id":"PL214"},  
- {"arcs":[[3425,3426,-3420,3427,3428]],"type":"Polygon","properties":{"NUTS_ID":"PL217","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Tarnowski","FID":"PL217"},"id":"PL217"},  
- {"arcs":[[-3427,3429,3430,3431,-3421]],"type":"Polygon","properties":{"NUTS_ID":"PL218","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Nowosądecki","FID":"PL218"},"id":"PL218"},  
- {"arcs":[[-3432,3432,-3376,3433,3434,-3422]],"type":"Polygon","properties":{"NUTS_ID":"PL219","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Nowotarski","FID":"PL219"},"id":"PL219"},  
- {"arcs":[[-3435,3435,3436,3437,-3423]],"type":"Polygon","properties":{"NUTS_ID":"PL21A","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Oświęcimski","FID":"PL21A"},"id":"PL21A"},  
+ {"arcs":[[3372,3373,-3371,-309,-314,3374,3375]],"type":"Polygon","properties":{"NUTS_ID":"SK031","LEVL_CODE":3,"CNTR_CODE":"SK","NUTS_NAME":"Žilinský kraj","FID":"SK031"},"id":"SK031"}, 
+
  {"arcs":[[3438,3439,3440,3441,3442,3443,3444,3445]],"type":"Polygon","properties":{"NUTS_ID":"RO122","LEVL_CODE":3,"CNTR_CODE":"RO","NUTS_NAME":"Braşov","FID":"RO122"},"id":"RO122"},  
  {"arcs":[[3446,3447,3448,-3439,3449]],"type":"Polygon","properties":{"NUTS_ID":"RO123","LEVL_CODE":3,"CNTR_CODE":"RO","NUTS_NAME":"Covasna","FID":"RO123"},"id":"RO123"},  
  {"arcs":[[3450,3451,-3450,-3446,3452,3453]],"type":"Polygon","properties":{"NUTS_ID":"RO124","LEVL_CODE":3,"CNTR_CODE":"RO","NUTS_NAME":"Harghita","FID":"RO124"},"id":"RO124"},  
@@ -755,73 +732,6 @@
  {"arcs":[[3874,-3865,-3874]],"type":"Polygon","properties":{"NUTS_ID":"UKL18","LEVL_CODE":3,"CNTR_CODE":"UK","NUTS_NAME":"Swansea","FID":"UKL18"},"id":"UKL18"},  
  {"arcs":[[-3779,3875,3876,-3871,-3764,3877]],"type":"Polygon","properties":{"NUTS_ID":"UKL21","LEVL_CODE":3,"CNTR_CODE":"UK","NUTS_NAME":"Monmouthshire and Newport","FID":"UKL21"},"id":"UKL21"},  
  {"arcs":[[-3877,3878,-3872,-3868,-3870]],"type":"Polygon","properties":{"NUTS_ID":"UKL22","LEVL_CODE":3,"CNTR_CODE":"UK","NUTS_NAME":"Cardiff and Vale of Glamorgan","FID":"UKL22"},"id":"UKL22"},  
- {"arcs":[[3879,3880,3881,3882,3883,3884]],"type":"Polygon","properties":{"NUTS_ID":"PL224","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Częstochowski","FID":"PL224"},"id":"PL224"},  
- {"arcs":[[-3434,-3375,-313,3885,3886,-3436]],"type":"Polygon","properties":{"NUTS_ID":"PL225","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Bielski","FID":"PL225"},"id":"PL225"},  
- {"arcs":[[3887,-3886,-312,3888,3889,3890]],"type":"Polygon","properties":{"NUTS_ID":"PL227","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Rybnicki","FID":"PL227"},"id":"PL227"},  
- {"arcs":[[3891,3892,3893,3894,-3883]],"type":"Polygon","properties":{"NUTS_ID":"PL228","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Bytomski","FID":"PL228"},"id":"PL228"},  
- {"arcs":[[3895,3896,-3891,3897,-3894]],"type":"Polygon","properties":{"NUTS_ID":"PL229","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Gliwicki","FID":"PL229"},"id":"PL229"},  
- {"arcs":[[3898,3899,-3896,-3893]],"type":"Polygon","properties":{"NUTS_ID":"PL22A","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Katowicki","FID":"PL22A"},"id":"PL22A"},  
- {"arcs":[[-3424,-3438,3900,-3899,-3892,-3882,3901]],"type":"Polygon","properties":{"NUTS_ID":"PL22B","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Sosnowiecki","FID":"PL22B"},"id":"PL22B"},  
- {"arcs":[[-3901,-3437,-3887,-3888,-3897,-3900]],"type":"Polygon","properties":{"NUTS_ID":"PL22C","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Tyski","FID":"PL22C"},"id":"PL22C"},  
- {"arcs":[[3902,3903,3904,3905,3906,3907,3908,3909]],"type":"Polygon","properties":{"NUTS_ID":"PL411","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Pilski","FID":"PL411"},"id":"PL411"},  
- {"arcs":[[3910,3911,3912,3913,3914,-3905,3915]],"type":"Polygon","properties":{"NUTS_ID":"PL414","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Koniński","FID":"PL414"},"id":"PL414"},  
- {"arcs":[[3916]],"type":"Polygon","properties":{"NUTS_ID":"PL415","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Miasto Poznań","FID":"PL415"},"id":"PL415"},  
- {"arcs":[[3917,3918,3919,3920,3921,3922,-3914]],"type":"Polygon","properties":{"NUTS_ID":"PL416","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Kaliski","FID":"PL416"},"id":"PL416"},  
- {"arcs":[[3923,-3922,3924,3925,3926,3927,-3907]],"type":"Polygon","properties":{"NUTS_ID":"PL417","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Leszczyński","FID":"PL417"},"id":"PL417"},  
- {"arcs":[[-3915,-3923,-3924,-3906],[-3917]],"type":"Polygon","properties":{"NUTS_ID":"PL418","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Poznański","FID":"PL418"},"id":"PL418"},  
- {"arcs":[[3928]],"type":"Polygon","properties":{"NUTS_ID":"PL424","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Miasto Szczecin","FID":"PL424"},"id":"PL424"},  
- {"arcs":[[3929,3930,3931,3932]],"type":"Polygon","properties":{"NUTS_ID":"PL426","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Koszaliński","FID":"PL426"},"id":"PL426"},  
- {"arcs":[[3933,-3909,3934,-1789,3935,-3930,3936]],"type":"Polygon","properties":{"NUTS_ID":"PL427","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Szczecinecko-pyrzycki","FID":"PL427"},"id":"PL427"},  
- {"arcs":[[-3936,-1792,-1774,-1807,-1901,3937,-1899,3938,-3931],[-3929]],"type":"Polygon","properties":{"NUTS_ID":"PL428","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Szczeciński","FID":"PL428"},"id":"PL428"},  
- {"arcs":[[-3908,-3928,3939,-1797,-1770,-1790,-3935]],"type":"Polygon","properties":{"NUTS_ID":"PL431","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Gorzowski","FID":"PL431"},"id":"PL431"},  
- {"arcs":[[-3927,3940,3941,-1579,-1806,-1798,-3940]],"type":"Polygon","properties":{"NUTS_ID":"PL432","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Zielonogórski","FID":"PL432"},"id":"PL432"},  
- {"arcs":[[3942]],"type":"Polygon","properties":{"NUTS_ID":"PL514","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Miasto Wrocław","FID":"PL514"},"id":"PL514"},  
- {"arcs":[[3943,3944,3945,-293,-290,-1577,-3942]],"type":"Polygon","properties":{"NUTS_ID":"PL515","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Jeleniogórski","FID":"PL515"},"id":"PL515"},  
- {"arcs":[[3946,-3944,-3941,-3926]],"type":"Polygon","properties":{"NUTS_ID":"PL516","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Legnicko-głogowski","FID":"PL516"},"id":"PL516"},  
- {"arcs":[[3947,-307,-296,-291,-3946,3948]],"type":"Polygon","properties":{"NUTS_ID":"PL517","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Wałbrzyski","FID":"PL517"},"id":"PL517"},  
- {"arcs":[[3949,-3949,-3945,-3947,-3925,-3921],[-3943]],"type":"Polygon","properties":{"NUTS_ID":"PL518","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Wrocławski","FID":"PL518"},"id":"PL518"},  
- {"arcs":[[3950,-3889,-315,-308,-3948,-3950,-3920]],"type":"Polygon","properties":{"NUTS_ID":"PL523","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Nyski","FID":"PL523"},"id":"PL523"},  
- {"arcs":[[-3884,-3895,-3898,-3890,-3951,-3919,3951]],"type":"Polygon","properties":{"NUTS_ID":"PL524","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Opolski","FID":"PL524"},"id":"PL524"},  
- {"arcs":[[3952,3953,3954,3955]],"type":"Polygon","properties":{"NUTS_ID":"PL613","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Bydgosko-toruński","FID":"PL613"},"id":"PL613"},  
- {"arcs":[[3956,3957,3958,3959,-3953,3960,3961]],"type":"Polygon","properties":{"NUTS_ID":"PL616","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Grudziądzki","FID":"PL616"},"id":"PL616"},  
- {"arcs":[[3962,-3916,-3904,3963,-3955]],"type":"Polygon","properties":{"NUTS_ID":"PL617","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Inowrocławski","FID":"PL617"},"id":"PL617"},  
- {"arcs":[[-3961,-3956,-3964,-3903,3964,3965]],"type":"Polygon","properties":{"NUTS_ID":"PL618","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Świecki","FID":"PL618"},"id":"PL618"},  
- {"arcs":[[3966,3967,-3911,-3963,-3954,-3960]],"type":"Polygon","properties":{"NUTS_ID":"PL619","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Włocławski","FID":"PL619"},"id":"PL619"},  
- {"arcs":[[3968,3969,-3957,3970,3971,3972]],"type":"Polygon","properties":{"NUTS_ID":"PL621","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Elbląski","FID":"PL621"},"id":"PL621"},  
- {"arcs":[[3973,3974,3975,-3969,3976]],"type":"Polygon","properties":{"NUTS_ID":"PL622","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Olsztyński","FID":"PL622"},"id":"PL622"},  
- {"arcs":[[3977,3978,-3974,3979,3980]],"type":"Polygon","properties":{"NUTS_ID":"PL623","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Ełcki","FID":"PL623"},"id":"PL623"},  
- {"arcs":[[3981,3982]],"type":"Polygon","properties":{"NUTS_ID":"PL633","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Trójmiejski","FID":"PL633"},"id":"PL633"},  
- {"arcs":[[-3982,3983,-3972,3984,3985,3986,3987]],"type":"Polygon","properties":{"NUTS_ID":"PL634","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Gdański","FID":"PL634"},"id":"PL634"},  
- {"arcs":[[3988,-3937,-3933,3989,-3987]],"type":"Polygon","properties":{"NUTS_ID":"PL636","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Słupski","FID":"PL636"},"id":"PL636"},  
- {"arcs":[[3990,-3965,-3910,-3934,-3989,-3986]],"type":"Polygon","properties":{"NUTS_ID":"PL637","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Chojnicki","FID":"PL637"},"id":"PL637"},  
- {"arcs":[[-3971,-3962,-3966,-3991,-3985]],"type":"Polygon","properties":{"NUTS_ID":"PL638","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Starogardzki","FID":"PL638"},"id":"PL638"},  
- {"arcs":[[3991]],"type":"Polygon","properties":{"NUTS_ID":"PL711","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Miasto Łódź","FID":"PL711"},"id":"PL711"},  
- {"arcs":[[3992,3993,3994],[-3992]],"type":"Polygon","properties":{"NUTS_ID":"PL712","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Łódzki","FID":"PL712"},"id":"PL712"},  
- {"arcs":[[3995,3996,3997,3998,-3880,3999,-3993,4000]],"type":"Polygon","properties":{"NUTS_ID":"PL713","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Piotrkowski","FID":"PL713"},"id":"PL713"},  
- {"arcs":[[-3994,-4000,-3885,-3952,-3918,-3913,4001]],"type":"Polygon","properties":{"NUTS_ID":"PL714","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Sieradzki","FID":"PL714"},"id":"PL714"},  
- {"arcs":[[4002,-4001,-3995,-4002,-3912,-3968,4003]],"type":"Polygon","properties":{"NUTS_ID":"PL715","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Skierniewicki","FID":"PL715"},"id":"PL715"},  
- {"arcs":[[4004,-3998,4005]],"type":"Polygon","properties":{"NUTS_ID":"PL721","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Kielecki","FID":"PL721"},"id":"PL721"},  
- {"arcs":[[4006,-3428,-3425,-3902,-3881,-3999,-4005,4007,4008]],"type":"Polygon","properties":{"NUTS_ID":"PL722","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Sandomiersko-jędrzejowski","FID":"PL722"},"id":"PL722"},  
- {"arcs":[[4009,4010,4011,4012,4013,4014]],"type":"Polygon","properties":{"NUTS_ID":"PL811","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Bialski","FID":"PL811"},"id":"PL811"},  
- {"arcs":[[4015,4016,4017,4018,4019,-4011]],"type":"Polygon","properties":{"NUTS_ID":"PL812","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Chełmsko-zamojski","FID":"PL812"},"id":"PL812"},  
- {"arcs":[[-4020,4020,-4012]],"type":"Polygon","properties":{"NUTS_ID":"PL814","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Lubelski","FID":"PL814"},"id":"PL814"},  
- {"arcs":[[-4013,-4021,-4019,4021,-4009,4022,4023]],"type":"Polygon","properties":{"NUTS_ID":"PL815","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Puławski","FID":"PL815"},"id":"PL815"},  
- {"arcs":[[4024,4025,4026,4027,-3430,-3426,4028]],"type":"Polygon","properties":{"NUTS_ID":"PL821","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Krośnieński","FID":"PL821"},"id":"PL821"},  
- {"arcs":[[4029,-4026,4030,4031,-4017]],"type":"Polygon","properties":{"NUTS_ID":"PL822","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Przemyski","FID":"PL822"},"id":"PL822"},  
- {"arcs":[[-4031,-4025,4032]],"type":"Polygon","properties":{"NUTS_ID":"PL823","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Rzeszowski","FID":"PL823"},"id":"PL823"},  
- {"arcs":[[-4018,-4032,-4033,-4029,-3429,-4007,-4022]],"type":"Polygon","properties":{"NUTS_ID":"PL824","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Tarnobrzeski","FID":"PL824"},"id":"PL824"},  
- {"arcs":[[4033,4034,4035]],"type":"Polygon","properties":{"NUTS_ID":"PL841","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Białostocki","FID":"PL841"},"id":"PL841"},  
- {"arcs":[[-4035,4036,-4015,4037,4038,-3978,4039]],"type":"Polygon","properties":{"NUTS_ID":"PL842","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Łomżyński","FID":"PL842"},"id":"PL842"},  
- {"arcs":[[-2314,4040,-4036,-4040,-3981,-2329]],"type":"Polygon","properties":{"NUTS_ID":"PL843","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Suwalski","FID":"PL843"},"id":"PL843"},  
- {"arcs":[[4041,4042]],"type":"Polygon","properties":{"NUTS_ID":"PL911","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Miasto Warszawa","FID":"PL911"},"id":"PL911"},  
- {"arcs":[[4043,4044,4045,4046,-4043,4047,4048]],"type":"Polygon","properties":{"NUTS_ID":"PL912","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Warszawski wschodni","FID":"PL912"},"id":"PL912"},  
- {"arcs":[[-4048,-4042,-4047,4049,4050]],"type":"Polygon","properties":{"NUTS_ID":"PL913","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Warszawski zachodni","FID":"PL913"},"id":"PL913"},  
- {"arcs":[[-4023,-4008,-4006,-3997,4051,4052]],"type":"Polygon","properties":{"NUTS_ID":"PL921","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Radomski","FID":"PL921"},"id":"PL921"},  
- {"arcs":[[-4049,-4051,4053,4054,-3958,-3970,-3976,4055]],"type":"Polygon","properties":{"NUTS_ID":"PL922","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Ciechanowski","FID":"PL922"},"id":"PL922"},  
- {"arcs":[[4056,-4004,-3967,-3959,-4055]],"type":"Polygon","properties":{"NUTS_ID":"PL923","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Płocki","FID":"PL923"},"id":"PL923"},  
- {"arcs":[[4057,-4044,-4056,-3975,-3979,-4039]],"type":"Polygon","properties":{"NUTS_ID":"PL924","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Ostrołęcki","FID":"PL924"},"id":"PL924"},  
- {"arcs":[[-4038,-4014,-4024,-4053,4058,-4045,-4058]],"type":"Polygon","properties":{"NUTS_ID":"PL925","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Siedlecki","FID":"PL925"},"id":"PL925"},  
- {"arcs":[[-4046,-4059,-4052,-3996,-4003,-4057,-4054,-4050]],"type":"Polygon","properties":{"NUTS_ID":"PL926","LEVL_CODE":3,"CNTR_CODE":"PL","NUTS_NAME":"Żyrardowski","FID":"PL926"},"id":"PL926"},  
  {"arcs":[[4059,4060,-2440,-2109]],"type":"Polygon","properties":{"NUTS_ID":"PT111","LEVL_CODE":3,"CNTR_CODE":"PT","NUTS_NAME":"Alto Minho","FID":"PT111"},"id":"PT111"},  
  {"arcs":[[4061,4062,4063,-4060,-2108,4064]],"type":"Polygon","properties":{"NUTS_ID":"PT112","LEVL_CODE":3,"CNTR_CODE":"PT","NUTS_NAME":"Cávado","FID":"PT112"},"id":"PT112"},  
  {"arcs":[[4065,4066,4067,-4062,4068]],"type":"Polygon","properties":{"NUTS_ID":"PT119","LEVL_CODE":3,"CNTR_CODE":"PT","NUTS_NAME":"Ave","FID":"PT119"},"id":"PT119"},  
