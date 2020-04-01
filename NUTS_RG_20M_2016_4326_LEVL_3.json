@@ -27,20 +27,6 @@
  {"arcs":[[-250,-235,253,254]],"type":"Polygon","properties":{"NUTS_ID":"CH066","LEVL_CODE":3,"CNTR_CODE":"CH","NUTS_NAME":"Zug","FID":"CH066"},"id":"CH066"},  
  {"arcs":[[255,256,257,258,-242,-225]],"type":"Polygon","properties":{"NUTS_ID":"CH070","LEVL_CODE":3,"CNTR_CODE":"CH","NUTS_NAME":"Ticino","FID":"CH070"},"id":"CH070"},  
  {"arcs":[[259]],"type":"Polygon","properties":{"NUTS_ID":"CY000","LEVL_CODE":3,"CNTR_CODE":"CY","NUTS_NAME":"Κύπρος","FID":"CY000"},"id":"CY000"},  
- {"arcs":[[260]],"type":"Polygon","properties":{"NUTS_ID":"CZ010","LEVL_CODE":3,"CNTR_CODE":"CZ","NUTS_NAME":"Hlavní město Praha","FID":"CZ010"},"id":"CZ010"},  
- {"arcs":[[261,262,263,264,265,266,267],[-261]],"type":"Polygon","properties":{"NUTS_ID":"CZ020","LEVL_CODE":3,"CNTR_CODE":"CZ","NUTS_NAME":"Středočeský kraj","FID":"CZ020"},"id":"CZ020"},  
- {"arcs":[[268,269,270,271,272,273,-265]],"type":"Polygon","properties":{"NUTS_ID":"CZ031","LEVL_CODE":3,"CNTR_CODE":"CZ","NUTS_NAME":"Jihočeský kraj","FID":"CZ031"},"id":"CZ031"},  
- {"arcs":[[-266,-274,274,275,-35,-52,-42,-53,276,277]],"type":"Polygon","properties":{"NUTS_ID":"CZ032","LEVL_CODE":3,"CNTR_CODE":"CZ","NUTS_NAME":"Plzeňský kraj","FID":"CZ032"},"id":"CZ032"},  
- {"arcs":[[-81,278,279,280,-277,-56,-93]],"type":"Polygon","properties":{"NUTS_ID":"CZ041","LEVL_CODE":3,"CNTR_CODE":"CZ","NUTS_NAME":"Karlovarský kraj","FID":"CZ041"},"id":"CZ041"},  
- {"arcs":[[281,282,-267,-278,-281,283,284,285,286]],"type":"Polygon","properties":{"NUTS_ID":"CZ042","LEVL_CODE":3,"CNTR_CODE":"CZ","NUTS_NAME":"Ústecký kraj","FID":"CZ042"},"id":"CZ042"},  
- {"arcs":[[287,-268,-283,288,289]],"type":"Polygon","properties":{"NUTS_ID":"CZ051","LEVL_CODE":3,"CNTR_CODE":"CZ","NUTS_NAME":"Liberecký kraj","FID":"CZ051"},"id":"CZ051"},  
- {"arcs":[[290,291,-262,-288,292]],"type":"Polygon","properties":{"NUTS_ID":"CZ052","LEVL_CODE":3,"CNTR_CODE":"CZ","NUTS_NAME":"Královéhradecký kraj","FID":"CZ052"},"id":"CZ052"},  
- {"arcs":[[293,294,-263,-292,295,296]],"type":"Polygon","properties":{"NUTS_ID":"CZ053","LEVL_CODE":3,"CNTR_CODE":"CZ","NUTS_NAME":"Pardubický kraj","FID":"CZ053"},"id":"CZ053"},  
- {"arcs":[[297,-269,-264,-295]],"type":"Polygon","properties":{"NUTS_ID":"CZ063","LEVL_CODE":3,"CNTR_CODE":"CZ","NUTS_NAME":"Kraj Vysočina","FID":"CZ063"},"id":"CZ063"},  
- {"arcs":[[298,299,300,301,302,-270,-298,-294,303]],"type":"Polygon","properties":{"NUTS_ID":"CZ064","LEVL_CODE":3,"CNTR_CODE":"CZ","NUTS_NAME":"Jihomoravský kraj","FID":"CZ064"},"id":"CZ064"},  
- {"arcs":[[304,305,-304,-297,306,307]],"type":"Polygon","properties":{"NUTS_ID":"CZ071","LEVL_CODE":3,"CNTR_CODE":"CZ","NUTS_NAME":"Olomoucký kraj","FID":"CZ071"},"id":"CZ071"},  
- {"arcs":[[308,309,-299,-306,310]],"type":"Polygon","properties":{"NUTS_ID":"CZ072","LEVL_CODE":3,"CNTR_CODE":"CZ","NUTS_NAME":"Zlínský kraj","FID":"CZ072"},"id":"CZ072"},  
- {"arcs":[[311,312,313,-311,-305,314]],"type":"Polygon","properties":{"NUTS_ID":"CZ080","LEVL_CODE":3,"CNTR_CODE":"CZ","NUTS_NAME":"Moravskoslezský kraj","FID":"CZ080"},"id":"CZ080"},  
  {"arcs":[[[724]],[[725]],[[726]],[[727]],[[728]],[[729]],[[730]],[[731]],[[732]],[[733]],[[734]],[[735]]],"type":"MultiPolygon","properties":{"NUTS_ID":"EL421","LEVL_CODE":3,"CNTR_CODE":"EL","NUTS_NAME":"Κάλυμνος, Κάρπαθος, Κως, Ρόδος","FID":"EL421"},"id":"EL421"},  
  {"arcs":[[[736]],[[737]],[[738]],[[739]],[[740]],[[741]],[[742]],[[743]],[[744]],[[745]],[[746]],[[747]],[[748]],[[749]],[[750]],[[751]],[[752]],[[753]],[[754]]],"type":"MultiPolygon","properties":{"NUTS_ID":"EL422","LEVL_CODE":3,"CNTR_CODE":"EL","NUTS_NAME":"Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος","FID":"EL422"},"id":"EL422"},  
  {"arcs":[[755,756,757,758]],"type":"Polygon","properties":{"NUTS_ID":"EL431","LEVL_CODE":3,"CNTR_CODE":"EL","NUTS_NAME":"Ηράκλειο","FID":"EL431"},"id":"EL431"},  
@@ -322,9 +308,6 @@
  {"arcs":[[-2370,-2377,-2378,2382,-2380]],"type":"Polygon","properties":{"NUTS_ID":"MK008","LEVL_CODE":3,"CNTR_CODE":"MK","NUTS_NAME":"Скопски","FID":"MK008"},"id":"MK008"},  
  {"arcs":[[2383]],"type":"Polygon","properties":{"NUTS_ID":"MT001","LEVL_CODE":3,"CNTR_CODE":"MT","NUTS_NAME":"Malta","FID":"MT001"},"id":"MT001"},  
  {"arcs":[[2384]],"type":"Polygon","properties":{"NUTS_ID":"MT002","LEVL_CODE":3,"CNTR_CODE":"MT","NUTS_NAME":"Gozo and Comino/Għawdex u Kemmuna","FID":"MT002"},"id":"MT002"},  
- {"arcs":[[-2016,-2006,2385,2386,2387,2388,2389]],"type":"Polygon","properties":{"NUTS_ID":"NL111","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Oost-Groningen","FID":"NL111"},"id":"NL111"},  
- {"arcs":[[-2389,2390,2391]],"type":"Polygon","properties":{"NUTS_ID":"NL112","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Delfzijl en omgeving","FID":"NL112"},"id":"NL112"},  
- {"arcs":[[[-2391,-2388,2392,2393,2394,2395]],[[2396]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NL113","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Overig Groningen","FID":"NL113"},"id":"NL113"},  
  {"arcs":[[-2102,-2110,2439,2440,-2097]],"type":"Polygon","properties":{"NUTS_ID":"ES114","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Pontevedra","FID":"ES114"},"id":"ES114"},  
  {"arcs":[[2441,2442,-2099,2443]],"type":"Polygon","properties":{"NUTS_ID":"ES120","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Asturias","FID":"ES120"},"id":"ES120"},  
  {"arcs":[[2444,2445,2446,2447,2448,2449,-2442,2450]],"type":"Polygon","properties":{"NUTS_ID":"ES130","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Cantabria","FID":"ES130"},"id":"ES130"},  
@@ -381,41 +364,6 @@
  {"arcs":[[2601]],"type":"Polygon","properties":{"NUTS_ID":"ES707","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"La Palma","FID":"ES707"},"id":"ES707"},  
  {"arcs":[[2602]],"type":"Polygon","properties":{"NUTS_ID":"ES708","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Lanzarote","FID":"ES708"},"id":"ES708"},  
  {"arcs":[[2603]],"type":"Polygon","properties":{"NUTS_ID":"ES709","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Tenerife","FID":"ES709"},"id":"ES709"},  
- {"arcs":[[[2663,2664,2665,-2395]],[[2666]],[[2667]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NL124","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Noord-Friesland","FID":"NL124"},"id":"NL124"},  
- {"arcs":[[2668,2669,2670,2671,2672,-2665]],"type":"Polygon","properties":{"NUTS_ID":"NL125","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Zuidwest-Friesland","FID":"NL125"},"id":"NL125"},  
- {"arcs":[[2673,2674,2675,-2669,-2664,-2394]],"type":"Polygon","properties":{"NUTS_ID":"NL126","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Zuidoost-Friesland","FID":"NL126"},"id":"NL126"},  
- {"arcs":[[-2387,2676,2677,-2674,-2393]],"type":"Polygon","properties":{"NUTS_ID":"NL131","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Noord-Drenthe","FID":"NL131"},"id":"NL131"},  
- {"arcs":[[-2005,-2015,2678,2679,-2677,-2386]],"type":"Polygon","properties":{"NUTS_ID":"NL132","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Zuidoost-Drenthe","FID":"NL132"},"id":"NL132"},  
- {"arcs":[[-2680,2680,-2675,-2678]],"type":"Polygon","properties":{"NUTS_ID":"NL133","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Zuidwest-Drenthe","FID":"NL133"},"id":"NL133"},  
- {"arcs":[[-2679,-2014,2681,2682,2683,2684,-2670,-2676,-2681]],"type":"Polygon","properties":{"NUTS_ID":"NL211","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Noord-Overijssel","FID":"NL211"},"id":"NL211"},  
- {"arcs":[[2685,2686,2687,-2683]],"type":"Polygon","properties":{"NUTS_ID":"NL212","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Zuidwest-Overijssel","FID":"NL212"},"id":"NL212"},  
- {"arcs":[[-1371,2688,-2686,-2682,-2013]],"type":"Polygon","properties":{"NUTS_ID":"NL213","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Twente","FID":"NL213"},"id":"NL213"},  
- {"arcs":[[-2688,2689,2690,2691,2692,2693,-2684]],"type":"Polygon","properties":{"NUTS_ID":"NL221","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Veluwe","FID":"NL221"},"id":"NL221"},  
- {"arcs":[[-2692,2694,2695,2696,2697,2698]],"type":"Polygon","properties":{"NUTS_ID":"NL224","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Zuidwest-Gelderland","FID":"NL224"},"id":"NL224"},  
- {"arcs":[[-1370,-1298,2699,-2690,-2687,-2689]],"type":"Polygon","properties":{"NUTS_ID":"NL225","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Achterhoek","FID":"NL225"},"id":"NL225"},  
- {"arcs":[[-1297,2700,2701,-2695,-2691,-2700]],"type":"Polygon","properties":{"NUTS_ID":"NL226","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Arnhem/Nijmegen","FID":"NL226"},"id":"NL226"},  
- {"arcs":[[-2694,2702,2703,2704,2705,-2671,-2685]],"type":"Polygon","properties":{"NUTS_ID":"NL230","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Flevoland","FID":"NL230"},"id":"NL230"},  
- {"arcs":[[-2703,-2693,-2699,2706,2707,2708,2709]],"type":"Polygon","properties":{"NUTS_ID":"NL310","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Utrecht","FID":"NL310"},"id":"NL310"},  
- {"arcs":[[-2672,-2706,2710,2711,2712]],"type":"Polygon","properties":{"NUTS_ID":"NL321","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Kop van Noord-Holland","FID":"NL321"},"id":"NL321"},  
- {"arcs":[[2713,2714,2715,2716]],"type":"Polygon","properties":{"NUTS_ID":"NL323","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"IJmond","FID":"NL323"},"id":"NL323"},  
- {"arcs":[[2717,2718,-2715,2719,2720]],"type":"Polygon","properties":{"NUTS_ID":"NL324","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Agglomeratie Haarlem","FID":"NL324"},"id":"NL324"},  
- {"arcs":[[-2720,-2714,2721,2722]],"type":"Polygon","properties":{"NUTS_ID":"NL325","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Zaanstreek","FID":"NL325"},"id":"NL325"},  
- {"arcs":[[-2710,2723,-2704]],"type":"Polygon","properties":{"NUTS_ID":"NL327","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Het Gooi en Vechtstreek","FID":"NL327"},"id":"NL327"},  
- {"arcs":[[2724,-2722,-2717,2725,-2712]],"type":"Polygon","properties":{"NUTS_ID":"NL328","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Alkmaar en omgeving","FID":"NL328"},"id":"NL328"},  
- {"arcs":[[-2705,-2724,-2709,2726,2727,-2721,-2723,-2725,-2711]],"type":"Polygon","properties":{"NUTS_ID":"NL329","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Groot-Amsterdam","FID":"NL329"},"id":"NL329"},  
- {"arcs":[[2728,2729,2730,2731,2732]],"type":"Polygon","properties":{"NUTS_ID":"NL332","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Agglomeratie's-Gravenhage","FID":"NL332"},"id":"NL332"},  
- {"arcs":[[2733,2734,-2731]],"type":"Polygon","properties":{"NUTS_ID":"NL333","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Delft en Westland","FID":"NL333"},"id":"NL333"},  
- {"arcs":[[-2728,2735,-2733,2736,-2718]],"type":"Polygon","properties":{"NUTS_ID":"NL337","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Agglomeratie Leiden en Bollenstreek","FID":"NL337"},"id":"NL337"},  
- {"arcs":[[-2698,2737,2738,2739,2740,-2707]],"type":"Polygon","properties":{"NUTS_ID":"NL33A","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Zuidoost-Zuid-Holland","FID":"NL33A"},"id":"NL33A"},  
- {"arcs":[[-2741,2741,-2729,-2736,-2727,-2708]],"type":"Polygon","properties":{"NUTS_ID":"NL33B","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Oost-Zuid-Holland","FID":"NL33B"},"id":"NL33B"},  
- {"arcs":[[-2740,2742,2743,2744,-2734,-2730,-2742]],"type":"Polygon","properties":{"NUTS_ID":"NL33C","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Groot-Rijnmond","FID":"NL33C"},"id":"NL33C"},  
- {"arcs":[[-932,-926,-921,-944,2745]],"type":"Polygon","properties":{"NUTS_ID":"NL341","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Zeeuwsch-Vlaanderen","FID":"NL341"},"id":"NL341"},  
- {"arcs":[[2746,-884,2747,-2744]],"type":"Polygon","properties":{"NUTS_ID":"NL342","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Overig Zeeland","FID":"NL342"},"id":"NL342"},  
- {"arcs":[[-895,-885,-2747,-2743,-2739,2748]],"type":"Polygon","properties":{"NUTS_ID":"NL411","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"West-Noord-Brabant","FID":"NL411"},"id":"NL411"},  
- {"arcs":[[2749,2750,-896,-2749,-2738,-2697]],"type":"Polygon","properties":{"NUTS_ID":"NL412","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Midden-Noord-Brabant","FID":"NL412"},"id":"NL412"},  
- {"arcs":[[2751,2752,-2750,-2696,-2702]],"type":"Polygon","properties":{"NUTS_ID":"NL413","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Noordoost-Noord-Brabant","FID":"NL413"},"id":"NL413"},  
- {"arcs":[[2753,-904,-891,-2751,-2753,2754]],"type":"Polygon","properties":{"NUTS_ID":"NL414","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Zuidoost-Noord-Brabant","FID":"NL414"},"id":"NL414"},  
- {"arcs":[[-1296,-1320,2755,-2755,-2752,-2701]],"type":"Polygon","properties":{"NUTS_ID":"NL421","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Noord-Limburg","FID":"NL421"},"id":"NL421"},  
  {"arcs":[[2756,2757,2758,2759]],"type":"Polygon","properties":{"NUTS_ID":"ITF35","LEVL_CODE":3,"CNTR_CODE":"IT","NUTS_NAME":"Salerno","FID":"ITF35"},"id":"ITF35"},  
  {"arcs":[[2760,2761,2762,2763,2764]],"type":"Polygon","properties":{"NUTS_ID":"ITF43","LEVL_CODE":3,"CNTR_CODE":"IT","NUTS_NAME":"Taranto","FID":"ITF43"},"id":"ITF43"},  
  {"arcs":[[2765,-2765,2766,2767]],"type":"Polygon","properties":{"NUTS_ID":"ITF44","LEVL_CODE":3,"CNTR_CODE":"IT","NUTS_NAME":"Brindisi","FID":"ITF44"},"id":"ITF44"},  
@@ -502,8 +450,6 @@
  {"arcs":[[-3066,-3074,-3078,3078,3079,-3062]],"type":"Polygon","properties":{"NUTS_ID":"SI041","LEVL_CODE":3,"CNTR_CODE":"SI","NUTS_NAME":"Osrednjeslovenska","FID":"SI041"},"id":"SI041"},  
  {"arcs":[[3080,3081,3082,3083,3084,3085,3086]],"type":"Polygon","properties":{"NUTS_ID":"UKJ46","LEVL_CODE":3,"CNTR_CODE":"UK","NUTS_NAME":"West Kent","FID":"UKJ46"},"id":"UKJ46"},  
  {"arcs":[[3087,3088]],"type":"Polygon","properties":{"NUTS_ID":"UKK11","LEVL_CODE":3,"CNTR_CODE":"UK","NUTS_NAME":"Bristol, City of","FID":"UKK11"},"id":"UKK11"},  
- {"arcs":[[-1319,-1345,3089,-901,-2754,-2756]],"type":"Polygon","properties":{"NUTS_ID":"NL422","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Midden-Limburg","FID":"NL422"},"id":"NL422"},  
- {"arcs":[[-1344,-1358,-1004,-910,-997,-907,-902,-3090]],"type":"Polygon","properties":{"NUTS_ID":"NL423","LEVL_CODE":3,"CNTR_CODE":"NL","NUTS_NAME":"Zuid-Limburg","FID":"NL423"},"id":"NL423"},  
  {"arcs":[[[3103,3104,3105,3106,3107,-3075,-3072]],[[3108]],[[3109]],[[3110]]],"type":"MultiPolygon","properties":{"NUTS_ID":"HR031","LEVL_CODE":3,"CNTR_CODE":"HR","NUTS_NAME":"Primorsko-goranska županija","FID":"HR031"},"id":"HR031"},  
  {"arcs":[[3111,3112,3113,-3105,3114]],"type":"Polygon","properties":{"NUTS_ID":"HR032","LEVL_CODE":3,"CNTR_CODE":"HR","NUTS_NAME":"Ličko-senjska županija","FID":"HR032"},"id":"HR032"},  
  {"arcs":[[[3115,3116,3117,-3113]],[[3118]],[[3119]],[[3120]],[[3121]]],"type":"MultiPolygon","properties":{"NUTS_ID":"HR033","LEVL_CODE":3,"CNTR_CODE":"HR","NUTS_NAME":"Zadarska županija","FID":"HR033"},"id":"HR033"},  
