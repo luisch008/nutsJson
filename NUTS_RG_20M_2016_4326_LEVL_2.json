@@ -121,7 +121,7 @@
  {"arcs":[[534,535,-534,536,537]],"type":"Polygon","properties":{"NUTS_ID":"FRI2","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Limousin","FID":"FRI2"},"id":"FRI2"},  
  {"arcs":[[[538,539,-537,-533,540,541]],[[542]],[[543]]],"type":"MultiPolygon","properties":{"NUTS_ID":"FRI3","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Poitou-Charentes","FID":"FRI3"},"id":"FRI3"},  
  {"arcs":[[544,545,546,547,548,549,550]],"type":"Polygon","properties":{"NUTS_ID":"FRJ1","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Languedoc-Roussillon","FID":"FRJ1"},"id":"FRJ1"},  
- {"arcs":[[551,-549,552,553,-528,-536]],"type":"Polygon","properties":{"NUTS_ID":"FRJ2","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Midi-Pyrénées","FID":"FRJ2"},"id":"FRJ2"},  
+ {"arcs":[[551,-549,552,553,-528,-536]],"type":"Polygon","properties":{"NUTS_ID":"FRJ2","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Midi-Pyrénées","FID":"FRJ2"},"id":"FRJ2"},    {"arcs":[[830,552]],"type":"Polygon","properties":{"NUTS_ID":"ANJ2","LEVL_CODE":2,"CNTR_CODE":"AN","NUTS_NAME":"Andorra","FID":"ANJ2"},"id":"ANJ2"}, 
  {"arcs":[[555,556,-550,-552,-535,557,558]],"type":"Polygon","properties":{"NUTS_ID":"FRK1","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Auvergne","FID":"FRK1"},"id":"FRK1"},  
  {"arcs":[[559,-330,560,561,562,-551,-557,563]],"type":"Polygon","properties":{"NUTS_ID":"FRK2","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Rhône-Alpes","FID":"FRK2"},"id":"FRK2"},  
  {"arcs":[[-563,564,565,566,-545]],"type":"Polygon","properties":{"NUTS_ID":"FRL0","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Provence-Alpes-Côte d’Azur","FID":"FRL0"},"id":"FRL0"},  
