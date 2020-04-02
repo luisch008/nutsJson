@@ -58,5 +58,5 @@
 
  
 
- {"arcs":[[-539,-520,603,-331,-129,-126]],"type":"Polygon","properties":{"NUTS_ID":"SI0","LEVL_CODE":1,"CNTR_CODE":"SI","NUTS_NAME":"SLOVENIJA","FID":"SI0"},"id":"SI0"},  
- {"arcs":[[-373,-150,604,-300,-305,-537,-538,-540,-124,-57]],"type":"Polygon","properties":{"NUTS_ID":"SK0","LEVL_CODE":1,"CNTR_CODE":"SK","NUTS_NAME":"SLOVENSKO","FID":"SK0"},"id":"SK0"}  ]}}}
+ {"arcs":[[-539,-520,603,-331,-129,-126]],"type":"Polygon","properties":{"NUTS_ID":"SI0","LEVL_CODE":1,"CNTR_CODE":"SI","NUTS_NAME":"SLOVENIJA","FID":"SI0"},"id":"SI0"}  
+ ]}}}
