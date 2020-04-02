@@ -70,7 +70,7 @@
  
  {"arcs":[[[538,539,-537,-533,540,541]],[[542]],[[543]]],"type":"MultiPolygon","properties":{"NUTS_ID":"FRI3","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Poitou-Charentes","FID":"FRI3"},"id":"FRI3"}, 
  
- {"arcs":[[544, 546,547,548,549,550]],"type":"Polygon","properties":{"NUTS_ID":"FRJ1","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Languedoc-Roussillon","FID":"FRJ1"},"id":"FRJ1"}, 
+ {"arcs":[[544, 545,547,548,549,550]],"type":"Polygon","properties":{"NUTS_ID":"FRJ1","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Languedoc-Roussillon","FID":"FRJ1"},"id":"FRJ1"}, 
  
  {"arcs":[[551,-549,552,553,554,-528,-536]],"type":"Polygon","properties":{"NUTS_ID":"FRJ2","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Midi-Pyrénées","FID":"FRJ2"},"id":"FRJ2"}, 
  
