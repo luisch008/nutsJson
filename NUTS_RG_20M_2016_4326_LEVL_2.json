@@ -89,8 +89,7 @@
  {"arcs":[[-389,-393,394,395,396,397,-382],[398]],"type":"Polygon","properties":{"NUTS_ID":"ITI4","LEVL_CODE":2,"CNTR_CODE":"IT","NUTS_NAME":"Lazio","FID":"ITI4"},"id":"ITI4"},  
  {"arcs":[[-346,-249]],"type":"Polygon","properties":{"NUTS_ID":"LI00","LEVL_CODE":2,"CNTR_CODE":"LI","NUTS_NAME":"Liechtenstein","FID":"LI00"},"id":"LI00"},  
  
- {"arcs":[[401,402,403,404]],"type":"Polygon","properties":{"NUTS_ID":"TR81","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Zonguldak, Karabük, Bartin","FID":"TR81"},"id":"TR81"},  
- {"arcs":[[405,406,407,408,-402,-405,409]],"type":"Polygon","properties":{"NUTS_ID":"TR82","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Kastamonu, Çankiri, Sinop","FID":"TR82"},"id":"TR82"},  
+
  {"arcs":[[410,-104,-180,-102,-198,-171,-97,-202,-205,-173,-176,411,-179,412]],"type":"Polygon","properties":{"NUTS_ID":"DE93","LEVL_CODE":2,"CNTR_CODE":"DE","NUTS_NAME":"Lüneburg","FID":"DE93"},"id":"DE93"},  
  {"arcs":[[[413,-177,-412,-175,-204,414,415,416,417,418,419]],[[420]],[[421]]],"type":"MultiPolygon","properties":{"NUTS_ID":"DE94","LEVL_CODE":2,"CNTR_CODE":"DE","NUTS_NAME":"Weser-Ems","FID":"DE94"},"id":"DE94"},  
  {"arcs":[[422,423,424,425,426,427]],"type":"Polygon","properties":{"NUTS_ID":"DEA1","LEVL_CODE":2,"CNTR_CODE":"DE","NUTS_NAME":"Düsseldorf","FID":"DEA1"},"id":"DEA1"},  
@@ -103,7 +102,7 @@
  {"arcs":[[-184,-43,442,443,-80,-440]],"type":"Polygon","properties":{"NUTS_ID":"DEB3","LEVL_CODE":2,"CNTR_CODE":"DE","NUTS_NAME":"Rheinhessen-Pfalz","FID":"DEB3"},"id":"DEB3"},  
  
  {"arcs":[[-442,-82,452,-294,-290]],"type":"Polygon","properties":{"NUTS_ID":"LU00","LEVL_CODE":2,"CNTR_CODE":"LU","NUTS_NAME":"Luxembourg","FID":"LU00"},"id":"LU00"},  
- {"arcs":[[453,-445,-450,454,-141]],"type":"Polygon","properties":{"NUTS_ID":"LV00","LEVL_CODE":2,"CNTR_CODE":"LV","NUTS_NAME":"Latvija","FID":"LV00"},"id":"LV00"},  
+ 
  {"arcs":[[455,456,-206,-211,457,458,459]],"type":"Polygon","properties":{"NUTS_ID":"ME00","LEVL_CODE":2,"CNTR_CODE":"ME","NUTS_NAME":"Црна Гора","FID":"ME00"},"id":"ME00"},  
  {"arcs":[[-321,460,461,-218,-212,-208,462,463]],"type":"Polygon","properties":{"NUTS_ID":"MK00","LEVL_CODE":2,"CNTR_CODE":"MK","NUTS_NAME":"Severna Makedonija","FID":"MK00"},"id":"MK00"},  
  {"arcs":[[[464]],[[465]]],"type":"MultiPolygon","properties":{"NUTS_ID":"MT00","LEVL_CODE":2,"CNTR_CODE":"MT","NUTS_NAME":"Malta","FID":"MT00"},"id":"MT00"},  
@@ -135,9 +134,7 @@
  {"arcs":[[616,-602,-607,617,618,619]],"type":"Polygon","properties":{"NUTS_ID":"HU31","LEVL_CODE":2,"CNTR_CODE":"HU","NUTS_NAME":"Észak-Magyarország","FID":"HU31"},"id":"HU31"},  
  {"arcs":[[620,-603,-617,621,622,623]],"type":"Polygon","properties":{"NUTS_ID":"HU32","LEVL_CODE":2,"CNTR_CODE":"HU","NUTS_NAME":"Észak-Alföld","FID":"HU32"},"id":"HU32"},  
  {"arcs":[[624,625,626,-597,-616,-608,-604,-621]],"type":"Polygon","properties":{"NUTS_ID":"HU33","LEVL_CODE":2,"CNTR_CODE":"HU","NUTS_NAME":"Dél-Alföld","FID":"HU33"},"id":"HU33"},  
- {"arcs":[[[627,628,629,630]],[[631]],[[632]]],"type":"MultiPolygon","properties":{"NUTS_ID":"IE04","LEVL_CODE":2,"CNTR_CODE":"IE","NUTS_NAME":"Northern and Western","FID":"IE04"},"id":"IE04"},  
- {"arcs":[[[633,634,-630,635]],[[636]]],"type":"MultiPolygon","properties":{"NUTS_ID":"IE05","LEVL_CODE":2,"CNTR_CODE":"IE","NUTS_NAME":"Southern","FID":"IE05"},"id":"IE05"},  
- {"arcs":[[637,-634,-636,-629,638,639]],"type":"Polygon","properties":{"NUTS_ID":"IE06","LEVL_CODE":2,"CNTR_CODE":"IE","NUTS_NAME":"Eastern and Midland","FID":"IE06"},"id":"IE06"},  
+ 
  
  {"arcs":[[641,-378,642,-565,-562,643,-328,-353,644]],"type":"Polygon","properties":{"NUTS_ID":"ITC1","LEVL_CODE":2,"CNTR_CODE":"IT","NUTS_NAME":"Piemonte","FID":"ITC1"},"id":"ITC1"},  
  {"arcs":[[-644,-561,-329]],"type":"Polygon","properties":{"NUTS_ID":"ITC2","LEVL_CODE":2,"CNTR_CODE":"IT","NUTS_NAME":"Valle d'Aosta/Vallée d'Aoste","FID":"ITC2"},"id":"ITC2"},  
@@ -150,29 +147,8 @@
  {"arcs":[[-658,660,661,662,-654]],"type":"Polygon","properties":{"NUTS_ID":"ITF5","LEVL_CODE":2,"CNTR_CODE":"IT","NUTS_NAME":"Basilicata","FID":"ITF5"},"id":"ITF5"},  
  {"arcs":[[663,-662,664]],"type":"Polygon","properties":{"NUTS_ID":"ITF6","LEVL_CODE":2,"CNTR_CODE":"IT","NUTS_NAME":"Calabria","FID":"ITF6"},"id":"ITF6"},  
  {"arcs":[[[665]],[[666]],[[667]],[[668]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ITG1","LEVL_CODE":2,"CNTR_CODE":"IT","NUTS_NAME":"Sicilia","FID":"ITG1"},"id":"ITG1"},  
- {"arcs":[[669,670,671,672,673,674]],"type":"Polygon","properties":{"NUTS_ID":"TR52","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Konya, Karaman","FID":"TR52"},"id":"TR52"},  
- {"arcs":[[-672,675,676,677,678]],"type":"Polygon","properties":{"NUTS_ID":"TR61","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Antalya, Isparta, Burdur","FID":"TR61"},"id":"TR61"},  
- {"arcs":[[679,680,-676,-671,681,682]],"type":"Polygon","properties":{"NUTS_ID":"TR62","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Adana, Mersin","FID":"TR62"},"id":"TR62"},  
- {"arcs":[[683,684,-680,685,686,687]],"type":"Polygon","properties":{"NUTS_ID":"TR63","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Hatay, Kahramanmaras, Osmaniye","FID":"TR63"},"id":"TR63"},  
- {"arcs":[[-682,-670,688,-407,689,690]],"type":"Polygon","properties":{"NUTS_ID":"TR71","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Kirikkale, Aksaray, Nigde, Nevsehir, Kirsehir","FID":"TR71"},"id":"TR71"},  
- {"arcs":[[691,692,693,-686,-683,-691,694,695]],"type":"Polygon","properties":{"NUTS_ID":"TR72","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Kayseri, Sivas, Yozgat","FID":"TR72"},"id":"TR72"},  
- {"arcs":[[696,-695,-690,-406,697]],"type":"Polygon","properties":{"NUTS_ID":"TR83","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Samsun, Tokat, Çorum, Amasya","FID":"TR83"},"id":"TR83"},  
- {"arcs":[[698,699,-692,-696,-697,700]],"type":"Polygon","properties":{"NUTS_ID":"TR90","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Trabzon","FID":"TR90"},"id":"TR90"},  
- {"arcs":[[701,702,703,-693,-700,704]],"type":"Polygon","properties":{"NUTS_ID":"TRA1","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Erzurum, Erzincan, Bayburt","FID":"TRA1"},"id":"TRA1"},  
- {"arcs":[[705,706,-702,-705,-699,707]],"type":"Polygon","properties":{"NUTS_ID":"TRA2","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Agri, Kars, Igdir, Ardahan","FID":"TRA2"},"id":"TRA2"},  
- {"arcs":[[-704,708,709,710,-687,-694]],"type":"Polygon","properties":{"NUTS_ID":"TRB1","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Malatya, Elazig, Bingöl, Tunceli","FID":"TRB1"},"id":"TRB1"},  
- {"arcs":[[-707,711,712,713,-709,-703]],"type":"Polygon","properties":{"NUTS_ID":"TRB2","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Van, Mus, Bitlis, Hakkari","FID":"TRB2"},"id":"TRB2"},  
- {"arcs":[[714,715,-684,-688,-711]],"type":"Polygon","properties":{"NUTS_ID":"TRC1","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Gaziantep, Adiyaman, Kilis","FID":"TRC1"},"id":"TRC1"},  
- {"arcs":[[716,717,-715,-710,-714]],"type":"Polygon","properties":{"NUTS_ID":"TRC2","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Sanliurfa, Diyarbakir","FID":"TRC2"},"id":"TRC2"},  
- {"arcs":[[718,719,720,721,722,723,724,725,726,727]],"type":"Polygon","properties":{"NUTS_ID":"UKI7","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Outer London - West and North West","FID":"UKI7"},"id":"UKI7"},  
- {"arcs":[[728,-724,729,730,731,732,733,734]],"type":"Polygon","properties":{"NUTS_ID":"UKJ1","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Berkshire, Buckinghamshire and Oxfordshire","FID":"UKJ1"},"id":"UKJ1"},  
- {"arcs":[[735,736,737,738,-730,-723]],"type":"Polygon","properties":{"NUTS_ID":"UKJ2","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Surrey, East and West Sussex","FID":"UKJ2"},"id":"UKJ2"},  
- {"arcs":[[[-739,739,740,741,-731]],[[742]]],"type":"MultiPolygon","properties":{"NUTS_ID":"UKJ3","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Hampshire and Isle of Wight","FID":"UKJ3"},"id":"UKJ3"},  
- {"arcs":[[743,-737,744,745,746]],"type":"Polygon","properties":{"NUTS_ID":"UKJ4","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Kent","FID":"UKJ4"},"id":"UKJ4"},  
- {"arcs":[[-732,-742,747,748,749,750]],"type":"Polygon","properties":{"NUTS_ID":"UKK1","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Gloucestershire, Wiltshire and Bristol/Bath area","FID":"UKK1"},"id":"UKK1"},  
- {"arcs":[[-748,-741,751,752,753]],"type":"Polygon","properties":{"NUTS_ID":"UKK2","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Dorset and Somerset","FID":"UKK2"},"id":"UKK2"},  
- {"arcs":[[[754,755]],[[756]]],"type":"MultiPolygon","properties":{"NUTS_ID":"UKK3","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Cornwall and Isles of Scilly","FID":"UKK3"},"id":"UKK3"},  
- {"arcs":[[757,-755,758,-753,759]],"type":"Polygon","properties":{"NUTS_ID":"UKK4","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Devon","FID":"UKK4"},"id":"UKK4"},  
+
+
  {"arcs":[[[-511,760,761,762,-517,-514,-516]],[[763]],[[764]],[[765]],[[766]],[[767]]],"type":"MultiPolygon","properties":{"NUTS_ID":"EL61","LEVL_CODE":2,"CNTR_CODE":"EL","NUTS_NAME":"Θεσσαλία","FID":"EL61"},"id":"EL61"},  
  {"arcs":[[[768]],[[769]],[[770]],[[771]],[[772]],[[773]]],"type":"MultiPolygon","properties":{"NUTS_ID":"EL62","LEVL_CODE":2,"CNTR_CODE":"EL","NUTS_NAME":"Ιόνια Νησιά","FID":"EL62"},"id":"EL62"},  
  {"arcs":[[[774,775]],[[776,777,-518,-763,778]]],"type":"MultiPolygon","properties":{"NUTS_ID":"EL63","LEVL_CODE":2,"CNTR_CODE":"EL","NUTS_NAME":"Δυτική Ελλάδα","FID":"EL63"},"id":"EL63"},  
@@ -197,11 +173,6 @@
  {"arcs":[[-835,843,-840,-825]],"type":"Polygon","properties":{"NUTS_ID":"ES62","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_NAME":"Región de Murcia","FID":"ES62"},"id":"ES62"},  
  {"arcs":[[844]],"type":"Polygon","properties":{"NUTS_ID":"ES63","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_NAME":"Ciudad Autónoma de Ceuta","FID":"ES63"},"id":"ES63"},  
  {"arcs":[[845]],"type":"Polygon","properties":{"NUTS_ID":"ES64","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_NAME":"Ciudad Autónoma de Melilla","FID":"ES64"},"id":"ES64"},  
- {"arcs":[[[853,854,855,856]],[[857]],[[858]]],"type":"MultiPolygon","properties":{"NUTS_ID":"FI19","LEVL_CODE":2,"CNTR_CODE":"FI","NUTS_NAME":"Länsi-Suomi","FID":"FI19"},"id":"FI19"},  
- {"arcs":[[859,860,861]],"type":"Polygon","properties":{"NUTS_ID":"FI1B","LEVL_CODE":2,"CNTR_CODE":"FI","NUTS_NAME":"Helsinki-Uusimaa","FID":"FI1B"},"id":"FI1B"},  
- {"arcs":[[[862,-860,-862,863,-855,864]],[[865]],[[866]],[[867]],[[868]],[[869]],[[870]]],"type":"MultiPolygon","properties":{"NUTS_ID":"FI1C","LEVL_CODE":2,"CNTR_CODE":"FI","NUTS_NAME":"Etelä-Suomi","FID":"FI1C"},"id":"FI1C"},  
- {"arcs":[[[871,-865,-854,-857,872,873,874]],[[875]]],"type":"MultiPolygon","properties":{"NUTS_ID":"FI1D","LEVL_CODE":2,"CNTR_CODE":"FI","NUTS_NAME":"Pohjois- ja Itä-Suomi","FID":"FI1D"},"id":"FI1D"},  
- {"arcs":[[[876]],[[877]],[[878]],[[879]],[[880]],[[881]],[[882]]],"type":"MultiPolygon","properties":{"NUTS_ID":"FI20","LEVL_CODE":2,"CNTR_CODE":"FI","NUTS_NAME":"Åland","FID":"FI20"},"id":"FI20"},  
  {"arcs":[[883,884,885,886,887]],"type":"Polygon","properties":{"NUTS_ID":"FR10","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Ile-de-France","FID":"FR10"},"id":"FR10"},  
  {"arcs":[[-887,888,-558,-538,-540,889,890,891]],"type":"Polygon","properties":{"NUTS_ID":"FRB0","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Centre - Val de Loire","FID":"FRB0"},"id":"FRB0"},  
  {"arcs":[[892,893,-564,-556,-559,-889,-886,894]],"type":"Polygon","properties":{"NUTS_ID":"FRC1","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Bourgogne","FID":"FRC1"},"id":"FRC1"},  
@@ -214,34 +185,10 @@
  {"arcs":[[-296,911,-898,-893,-895,-885,-909,-283,-298]],"type":"Polygon","properties":{"NUTS_ID":"FRF2","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Champagne-Ardenne","FID":"FRF2"},"id":"FRF2"},  
  {"arcs":[[-295,-453,-81,-444,-911,-896,-899,-912]],"type":"Polygon","properties":{"NUTS_ID":"FRF3","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Lorraine","FID":"FRF3"},"id":"FRF3"},  
  {"arcs":[[[-902,-890,-539,-542,912,-525]],[[913]]],"type":"MultiPolygon","properties":{"NUTS_ID":"FRG0","LEVL_CODE":2,"CNTR_CODE":"FR","NUTS_NAME":"Pays de la Loire","FID":"FRG0"},"id":"FRG0"},  
- {"arcs":[[914,915,-750,916,917,918,919]],"type":"Polygon","properties":{"NUTS_ID":"UKL2","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"East Wales","FID":"UKL2"},"id":"UKL2"},  
- {"arcs":[[920,921,922]],"type":"Polygon","properties":{"NUTS_ID":"UKM5","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"North Eastern Scotland","FID":"UKM5"},"id":"UKM5"},  
- {"arcs":[[[923,-922,924,925,926]],[[927]],[[928]],[[929]],[[930]],[[931]],[[932]],[[933]],[[934]],[[935]],[[936]],[[937]],[[938]],[[939]],[[940]],[[941]],[[942]],[[943]],[[944]],[[945]],[[946]]],"type":"MultiPolygon","properties":{"NUTS_ID":"UKM6","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Highlands and Islands","FID":"UKM6"},"id":"UKM6"},  
- {"arcs":[[947,948,949,-925,-921]],"type":"Polygon","properties":{"NUTS_ID":"UKM7","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Eastern Scotland","FID":"UKM7"},"id":"UKM7"},  
- {"arcs":[[-950,950,951,-926]],"type":"Polygon","properties":{"NUTS_ID":"UKM8","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"West Central Scotland","FID":"UKM8"},"id":"UKM8"},  
- {"arcs":[[952,953,-951,-949,954,955]],"type":"Polygon","properties":{"NUTS_ID":"UKM9","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Southern Scotland","FID":"UKM9"},"id":"UKM9"},  
- {"arcs":[[-713,956,-717]],"type":"Polygon","properties":{"NUTS_ID":"TRC3","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Mardin, Batman, Sirnak, Siirt","FID":"TRC3"},"id":"TRC3"},  
- {"arcs":[[957,958,959,960,961]],"type":"Polygon","properties":{"NUTS_ID":"UKC1","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Tees Valley and Durham","FID":"UKC1"},"id":"UKC1"},  
- {"arcs":[[962,-958,-962,963,-956,964]],"type":"Polygon","properties":{"NUTS_ID":"UKC2","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Northumberland and Tyne and Wear","FID":"UKC2"},"id":"UKC2"},  
- {"arcs":[[-961,965,966,967,-953,-964]],"type":"Polygon","properties":{"NUTS_ID":"UKD1","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Cumbria","FID":"UKD1"},"id":"UKD1"},  
- {"arcs":[[968,969,970,971,972,973]],"type":"Polygon","properties":{"NUTS_ID":"UKD3","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Greater Manchester","FID":"UKD3"},"id":"UKD3"},  
- {"arcs":[[974,975,-967,976,977,-972]],"type":"Polygon","properties":{"NUTS_ID":"UKD4","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Lancashire","FID":"UKD4"},"id":"UKD4"},  
- {"arcs":[[-970,978,979,-920,980,981,982,983]],"type":"Polygon","properties":{"NUTS_ID":"UKD6","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Cheshire","FID":"UKD6"},"id":"UKD6"},  
- {"arcs":[[[-975,-971,-984,984]],[[-982,985]]],"type":"MultiPolygon","properties":{"NUTS_ID":"UKD7","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Merseyside","FID":"UKD7"},"id":"UKD7"},  
- {"arcs":[[986,987,988,989,990,991]],"type":"Polygon","properties":{"NUTS_ID":"UKE1","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"East Yorkshire and Northern Lincolnshire","FID":"UKE1"},"id":"UKE1"},  
- {"arcs":[[992,-991,993,994,-977,-966,-960]],"type":"Polygon","properties":{"NUTS_ID":"UKE2","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"North Yorkshire","FID":"UKE2"},"id":"UKE2"},  
- {"arcs":[[-990,995,996,-994]],"type":"Polygon","properties":{"NUTS_ID":"UKE3","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"South Yorkshire","FID":"UKE3"},"id":"UKE3"},  
+
  {"arcs":[[-821,-830,997,998,999,1000]],"type":"Polygon","properties":{"NUTS_ID":"PT16","LEVL_CODE":2,"CNTR_CODE":"PT","NUTS_NAME":"Centro (PT)","FID":"PT16"},"id":"PT16"},  
  {"arcs":[[1001,1002,-999]],"type":"Polygon","properties":{"NUTS_ID":"PT17","LEVL_CODE":2,"CNTR_CODE":"PT","NUTS_NAME":"Área Metropolitana de Lisboa","FID":"PT17"},"id":"PT17"},  
  {"arcs":[[-829,-843,1003,1004,-1002,-998]],"type":"Polygon","properties":{"NUTS_ID":"PT18","LEVL_CODE":2,"CNTR_CODE":"PT","NUTS_NAME":"Alentejo","FID":"PT18"},"id":"PT18"},  
- {"arcs":[[1017,1018,1019,1020,-625,-624,1021]],"type":"Polygon","properties":{"NUTS_ID":"RO11","LEVL_CODE":2,"CNTR_CODE":"RO","NUTS_NAME":"Nord-Vest","FID":"RO11"},"id":"RO11"},  
- {"arcs":[[1022,1023,1024,1025,1026,-1020,1027]],"type":"Polygon","properties":{"NUTS_ID":"RO12","LEVL_CODE":2,"CNTR_CODE":"RO","NUTS_NAME":"Centru","FID":"RO12"},"id":"RO12"},  
- {"arcs":[[1028,1029,-1023,-1028,-1019,1030]],"type":"Polygon","properties":{"NUTS_ID":"RO21","LEVL_CODE":2,"CNTR_CODE":"RO","NUTS_NAME":"Nord-Est","FID":"RO21"},"id":"RO21"},  
- {"arcs":[[-1030,1031,-314,-310,1032,-1024]],"type":"Polygon","properties":{"NUTS_ID":"RO22","LEVL_CODE":2,"CNTR_CODE":"RO","NUTS_NAME":"Sud-Est","FID":"RO22"},"id":"RO22"},  
- {"arcs":[[-1025,-1033,-309,-300,1033],[1034]],"type":"Polygon","properties":{"NUTS_ID":"RO31","LEVL_CODE":2,"CNTR_CODE":"RO","NUTS_NAME":"Sud - Muntenia","FID":"RO31"},"id":"RO31"},  
- {"arcs":[[-1035]],"type":"Polygon","properties":{"NUTS_ID":"RO32","LEVL_CODE":2,"CNTR_CODE":"RO","NUTS_NAME":"Bucureşti - Ilfov","FID":"RO32"},"id":"RO32"},  
- {"arcs":[[-1034,-299,-306,1035,1036,-1026]],"type":"Polygon","properties":{"NUTS_ID":"RO41","LEVL_CODE":2,"CNTR_CODE":"RO","NUTS_NAME":"Sud-Vest Oltenia","FID":"RO41"},"id":"RO41"},  
- {"arcs":[[-1027,-1037,1037,1038,-626,-1021]],"type":"Polygon","properties":{"NUTS_ID":"RO42","LEVL_CODE":2,"CNTR_CODE":"RO","NUTS_NAME":"Vest","FID":"RO42"},"id":"RO42"},  
  {"arcs":[[1039,1040,1041]],"type":"Polygon","properties":{"NUTS_ID":"RS11","LEVL_CODE":2,"CNTR_CODE":"RS","NUTS_NAME":"Београдски регион","FID":"RS11"},"id":"RS11"},  
  {"arcs":[[-1039,1042,-1042,1043,1044,-598,-627]],"type":"Polygon","properties":{"NUTS_ID":"RS12","LEVL_CODE":2,"CNTR_CODE":"RS","NUTS_NAME":"Регион Војводине","FID":"RS12"},"id":"RS12"},  
  {"arcs":[[-1041,1045,1046,-456,1047,-1044]],"type":"Polygon","properties":{"NUTS_ID":"RS21","LEVL_CODE":2,"CNTR_CODE":"RS","NUTS_NAME":"Регион Шумадије и Западне Србије","FID":"RS21"},"id":"RS21"},  
@@ -252,29 +199,7 @@
  {"arcs":[[1091,-618,-606,-611,-615,-1091,-224,-25,-28,1092]],"type":"Polygon","properties":{"NUTS_ID":"SK02","LEVL_CODE":2,"CNTR_CODE":"SK","NUTS_NAME":"Západné Slovensko","FID":"SK02"},"id":"SK02"},  
  {"arcs":[[1093,-619,-1092,-1093,-27,-33,1094,1095]],"type":"Polygon","properties":{"NUTS_ID":"SK03","LEVL_CODE":2,"CNTR_CODE":"SK","NUTS_NAME":"Stredné Slovensko","FID":"SK03"},"id":"SK03"},  
  {"arcs":[[1096,-622,-620,-1094,1097,1098]],"type":"Polygon","properties":{"NUTS_ID":"SK04","LEVL_CODE":2,"CNTR_CODE":"SK","NUTS_NAME":"Východné Slovensko","FID":"SK04"},"id":"SK04"},  
- {"arcs":[[[1099,1100]],[[1101,1102]]],"type":"MultiPolygon","properties":{"NUTS_ID":"TR10","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Istanbul","FID":"TR10"},"id":"TR10"},  
- {"arcs":[[1103,-1100,1104,1105,1106,-507,-323,-316]],"type":"Polygon","properties":{"NUTS_ID":"TR21","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Tekirdag, Edirne, Kirklareli","FID":"TR21"},"id":"TR21"},  
- {"arcs":[[[1107,1108,1109,1110]],[[-1106,1111]],[[1112]],[[1113]],[[1114]],[[1115]],[[1116]]],"type":"MultiPolygon","properties":{"NUTS_ID":"TR22","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Balikesir, Çanakkale","FID":"TR22"},"id":"TR22"},  
- {"arcs":[[[1117,1118,-1110,1119]],[[1120]]],"type":"MultiPolygon","properties":{"NUTS_ID":"TR31","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Izmir","FID":"TR31"},"id":"TR31"},  
- {"arcs":[[[-678,1121,-1118,1122]],[[1123]],[[1124]],[[1125]]],"type":"MultiPolygon","properties":{"NUTS_ID":"TR32","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Aydin, Denizli, Mugla","FID":"TR32"},"id":"TR32"},  
- {"arcs":[[-673,-679,-1123,-1120,-1109,1126]],"type":"Polygon","properties":{"NUTS_ID":"TR33","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Manisa, Afyonkarahisar, Kütahya, Usak","FID":"TR33"},"id":"TR33"},  
- {"arcs":[[1127,1128,-674,-1127,-1108,1129,1130]],"type":"Polygon","properties":{"NUTS_ID":"TR41","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Bursa, Eskisehir, Bilecik","FID":"TR41"},"id":"TR41"},  
- {"arcs":[[1131,-403,-409,1132,-1128,-1131,1133,-1103,1134]],"type":"Polygon","properties":{"NUTS_ID":"TR42","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Kocaeli, Sakarya, Düzce, Bolu, Yalova","FID":"TR42"},"id":"TR42"},  
- {"arcs":[[-689,-675,-1129,-1133,-408]],"type":"Polygon","properties":{"NUTS_ID":"TR51","LEVL_CODE":2,"CNTR_CODE":"TR","NUTS_NAME":"Ankara","FID":"TR51"},"id":"TR51"},  
- {"arcs":[[-995,-997,1135,-973,-978]],"type":"Polygon","properties":{"NUTS_ID":"UKE4","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"West Yorkshire","FID":"UKE4"},"id":"UKE4"},  
- {"arcs":[[-996,-989,1136,1137,1138,-979,-969,-974,-1136]],"type":"Polygon","properties":{"NUTS_ID":"UKF1","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Derbyshire and Nottinghamshire","FID":"UKF1"},"id":"UKF1"},  
- {"arcs":[[1139,1140,1141,-734,1142,1143,-1138]],"type":"Polygon","properties":{"NUTS_ID":"UKF2","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Leicestershire, Rutland and Northamptonshire","FID":"UKF2"},"id":"UKF2"},  
- {"arcs":[[1144,1145,-1140,-1137,-988]],"type":"Polygon","properties":{"NUTS_ID":"UKF3","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Lincolnshire","FID":"UKF3"},"id":"UKF3"},  
- {"arcs":[[-1143,-733,-751,-916,1146,1147,1148]],"type":"Polygon","properties":{"NUTS_ID":"UKG1","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Herefordshire, Worcestershire and Warwickshire","FID":"UKG1"},"id":"UKG1"},  
- {"arcs":[[-1144,-1149,1149,-1147,-915,-980,-1139]],"type":"Polygon","properties":{"NUTS_ID":"UKG2","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Shropshire and Staffordshire","FID":"UKG2"},"id":"UKG2"},  
- {"arcs":[[-1150,-1148]],"type":"Polygon","properties":{"NUTS_ID":"UKG3","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"West Midlands","FID":"UKG3"},"id":"UKG3"},  
- {"arcs":[[1150,1151,-1141,-1146,1152]],"type":"Polygon","properties":{"NUTS_ID":"UKH1","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"East Anglia","FID":"UKH1"},"id":"UKH1"},  
- {"arcs":[[-725,-729,-735,-1142,-1152,1153,1154]],"type":"Polygon","properties":{"NUTS_ID":"UKH2","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Bedfordshire and Hertfordshire","FID":"UKH2"},"id":"UKH2"},  
- {"arcs":[[-1151,1155,1156,-1154]],"type":"Polygon","properties":{"NUTS_ID":"UKH3","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Essex","FID":"UKH3"},"id":"UKH3"},  
- {"arcs":[[[1157,1158,-719,-728]],[[1159,1160,-721,1161]]],"type":"MultiPolygon","properties":{"NUTS_ID":"UKI3","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Inner London - West","FID":"UKI3"},"id":"UKI3"},  
- {"arcs":[[[1162,1163,-1158,-727,1164]],[[1165,-1160,1166,1167,1168]]],"type":"MultiPolygon","properties":{"NUTS_ID":"UKI4","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Inner London - East","FID":"UKI4"},"id":"UKI4"},  
- {"arcs":[[[-1157,1169,-1163,-1165,-726,-1155]],[[-746,1170,-1168,1171]]],"type":"MultiPolygon","properties":{"NUTS_ID":"UKI5","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Outer London - East and North East","FID":"UKI5"},"id":"UKI5"},  
- {"arcs":[[-1171,-745,-736,-722,-1161,-1166,-1169]],"type":"Polygon","properties":{"NUTS_ID":"UKI6","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Outer London - South","FID":"UKI6"},"id":"UKI6"},  
+
  {"arcs":[[[1172,1173,1174,-469,1175,1176]],[[1177]],[[1178]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NL12","LEVL_CODE":2,"CNTR_CODE":"NL","NUTS_NAME":"Friesland (NL)","FID":"NL12"},"id":"NL12"},  
  {"arcs":[[-418,1179,-1176,-468]],"type":"Polygon","properties":{"NUTS_ID":"NL13","LEVL_CODE":2,"CNTR_CODE":"NL","NUTS_NAME":"Drenthe","FID":"NL13"},"id":"NL13"},  
  {"arcs":[[-1180,-417,-436,1180,1181,-1177]],"type":"Polygon","properties":{"NUTS_ID":"NL21","LEVL_CODE":2,"CNTR_CODE":"NL","NUTS_NAME":"Overijssel","FID":"NL21"},"id":"NL21"},  
@@ -286,25 +211,5 @@
  {"arcs":[[[-257,1196,-1195,1197]],[[-268,-278,1198]]],"type":"MultiPolygon","properties":{"NUTS_ID":"NL34","LEVL_CODE":2,"CNTR_CODE":"NL","NUTS_NAME":"Zeeland","FID":"NL34"},"id":"NL34"},  
  {"arcs":[[1199,-261,-252,-258,-1198,-1194,-1184]],"type":"Polygon","properties":{"NUTS_ID":"NL41","LEVL_CODE":2,"CNTR_CODE":"NL","NUTS_NAME":"Noord-Brabant","FID":"NL41"},"id":"NL41"},  
  {"arcs":[[-432,-287,-264,-293,-262,-1200,-1183,-426]],"type":"Polygon","properties":{"NUTS_ID":"NL42","LEVL_CODE":2,"CNTR_CODE":"NL","NUTS_NAME":"Limburg (NL)","FID":"NL42"},"id":"NL42"},  
- {"arcs":[[1230,1231,-1098,-1096,1232,1233]],"type":"Polygon","properties":{"NUTS_ID":"PL21","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Małopolskie","FID":"PL21"},"id":"PL21"},  
- {"arcs":[[1234,1235,-1233,-1095,-32,1236,1237]],"type":"Polygon","properties":{"NUTS_ID":"PL22","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Śląskie","FID":"PL22"},"id":"PL22"},  
- {"arcs":[[1238,1239,1240,1241,1242,1243,1244,1245]],"type":"Polygon","properties":{"NUTS_ID":"PL41","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Wielkopolskie","FID":"PL41"},"id":"PL41"},  
- {"arcs":[[1246,-1244,1247,-169,-197,1248,-195,1249,1250]],"type":"Polygon","properties":{"NUTS_ID":"PL42","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Zachodniopomorskie","FID":"PL42"},"id":"PL42"},  
- {"arcs":[[-1243,1251,-89,-170,-1248]],"type":"Polygon","properties":{"NUTS_ID":"PL43","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Lubuskie","FID":"PL43"},"id":"PL43"},  
- {"arcs":[[-1242,1252,-29,-19,-23,-85,-1252]],"type":"Polygon","properties":{"NUTS_ID":"PL51","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Dolnośląskie","FID":"PL51"},"id":"PL51"},  
- {"arcs":[[-1241,1253,-1237,-34,-30,-1253]],"type":"Polygon","properties":{"NUTS_ID":"PL52","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Opolskie","FID":"PL52"},"id":"PL52"},  
- {"arcs":[[1254,1255,1256,-1239,-1246,1257]],"type":"Polygon","properties":{"NUTS_ID":"PL61","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Kujawsko-pomorskie","FID":"PL61"},"id":"PL61"},  
- {"arcs":[[1258,1259,1260,-1255,1261,1262]],"type":"Polygon","properties":{"NUTS_ID":"PL62","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Warmińsko-mazurskie","FID":"PL62"},"id":"PL62"},  
- 
- {"arcs":[[1299,-1262,-1258,-1245,-1247,-1251,1300]],"type":"Polygon","properties":{"NUTS_ID":"PL63","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Pomorskie","FID":"PL63"},"id":"PL63"},  
- {"arcs":[[1301,1302,-1235,-1238,-1254,-1240,-1257]],"type":"Polygon","properties":{"NUTS_ID":"PL71","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Łódzkie","FID":"PL71"},"id":"PL71"},  
- {"arcs":[[1303,1304,1305,-1231,-1234,-1236,-1303]],"type":"Polygon","properties":{"NUTS_ID":"PL72","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Świętokrzyskie","FID":"PL72"},"id":"PL72"},  
- {"arcs":[[1306,1307,-1305,1308,1309,1310]],"type":"Polygon","properties":{"NUTS_ID":"PL81","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Lubelskie","FID":"PL81"},"id":"PL81"},  
- {"arcs":[[-1308,1311,-1099,-1232,-1306]],"type":"Polygon","properties":{"NUTS_ID":"PL82","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Podkarpackie","FID":"PL82"},"id":"PL82"},  
- {"arcs":[[1312,-1310,1313,-1260,-448,1314]],"type":"Polygon","properties":{"NUTS_ID":"PL84","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Podlaskie","FID":"PL84"},"id":"PL84"},  
- {"arcs":[[1315]],"type":"Polygon","properties":{"NUTS_ID":"PL91","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Warszawski stołeczny","FID":"PL91"},"id":"PL91"},  
- {"arcs":[[-1314,-1309,-1304,-1302,-1256,-1261],[-1316]],"type":"Polygon","properties":{"NUTS_ID":"PL92","LEVL_CODE":2,"CNTR_CODE":"PL","NUTS_NAME":"Mazowiecki regionalny","FID":"PL92"},"id":"PL92"},  
  {"arcs":[[-788,-822,-1001,1316]],"type":"Polygon","properties":{"NUTS_ID":"PT11","LEVL_CODE":2,"CNTR_CODE":"PT","NUTS_NAME":"Norte","FID":"PT11"},"id":"PT11"},  
- {"arcs":[[1317,-1004,-842]],"type":"Polygon","properties":{"NUTS_ID":"PT15","LEVL_CODE":2,"CNTR_CODE":"PT","NUTS_NAME":"Algarve","FID":"PT15"},"id":"PT15"},  
- {"arcs":[[1318,-639,-628,1319]],"type":"Polygon","properties":{"NUTS_ID":"UKN0","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"Northern Ireland","FID":"UKN0"},"id":"UKN0"},  
- {"arcs":[[[-918,1320]],[[1321]]],"type":"MultiPolygon","properties":{"NUTS_ID":"UKL1","LEVL_CODE":2,"CNTR_CODE":"UK","NUTS_NAME":"West Wales and The Valleys","FID":"UKL1"},"id":"UKL1"}]}}}
+ {"arcs":[[1317,-1004,-842]],"type":"Polygon","properties":{"NUTS_ID":"PT15","LEVL_CODE":2,"CNTR_CODE":"PT","NUTS_NAME":"Algarve","FID":"PT15"},"id":"PT15"}  ]}}}
