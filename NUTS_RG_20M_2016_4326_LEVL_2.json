@@ -79,7 +79,7 @@
  {"arcs":[[[813,814,815]],[[816]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES30","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_NAME":"Comunidad de Madrid","FID":"ES30"},"id":"ES30"},  
  {"arcs":[[[-795,-800,-807,-813,817,-815,818,819,820,821,-787,-792]],[[-802]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES41","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_NAME":"Castilla y León","FID":"ES41"},"id":"ES41"},  
  {"arcs":[[-812,822,-810,823,824,825,826,-819,-814,-816,-818],[-817]],"type":"Polygon","properties":{"NUTS_ID":"ES42","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_NAME":"Castilla-La Mancha","FID":"ES42"},"id":"ES42"},  
- {"arcs":[[-820,-827,827,828,829]],"type":"Polygon","properties":{"NUTS_ID":"ES4","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_NAME":"Extremadura","FID":"ES43"},"id":"ES43"},  
+ {"arcs":[[-820,-827,827,828,829]],"type":"Polygon","properties":{"NUTS_ID":"ES43","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_REGION":"CENTRO (ES)","NUTS_NAME":"Extremadura","FID":"ES43"},"id":"ES43"},  
  {"arcs":[[830,-547,831,832,-808,-554]],"type":"Polygon","properties":{"NUTS_ID":"ES51","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_NAME":"Cataluña","FID":"ES51"},"id":"ES51"},  
  {"arcs":[[[-833,833,834,-824,-809]],[[-823,-811]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES52","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_NAME":"Comunidad Valenciana","FID":"ES52"},"id":"ES52"},  
  {"arcs":[[[835]],[[836]],[[837]],[[838]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES53","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_NAME":"Illes Balears","FID":"ES53"},"id":"ES53"},  
