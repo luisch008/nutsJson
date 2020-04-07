@@ -36,7 +36,7 @@
 
  {"arcs":[[420,421,422,423,424,425,426,-296,427],[428]],"type":"Polygon","properties":{"NUTS_ID":"ES2","LEVL_CODE":1,"CNTR_CODE":"ES","NUTS_NAME":"NORESTE","FID":"ES2"},"id":"ES2"},  
  {"arcs":[[[429]],[[430]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES3","LEVL_CODE":1,"CNTR_CODE":"ES","NUTS_NAME":"COMUNIDAD DE MADRID","FID":"ES3"},"id":"ES3"},  
- {"arcs":[[[-297,-427,431,-425,432,433,-156],[-430],[-431]],[[-429]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES4","LEVL_CODE":1,"CNTR_CODE":"ES","NUTS_NAME":"CENTRO (ES)","FID":"ES4"},"id":"ES4"},  
+ {"arcs":[[[-297,-427,431,-425,432,433,-156],[-430],[-431]],[[-429]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES4","LEVL_CODE":1,"CNTR_CODE":"ES","NUTS_REGION":"CENTRO (ES)","FID":"ES4"},"id":"ES4"},  
  {"arcs":[[[434,435,436,437,-433,-424,438]],[[439]],[[440]],[[441]],[[-432,-426]],[[442]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES5","LEVL_CODE":1,"CNTR_CODE":"ES","NUTS_NAME":"ESTE","FID":"ES5"},"id":"ES5"},  
  {"arcs":[[[443,-157,-434,-438]],[[444]],[[445]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES6","LEVL_CODE":1,"CNTR_CODE":"ES","NUTS_NAME":"SUR","FID":"ES6"},"id":"ES6"},  
  {"arcs":[[[446]],[[447]],[[448]],[[449]],[[450]],[[451]],[[452]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES7","LEVL_CODE":1,"CNTR_CODE":"ES","NUTS_NAME":"CANARIAS","FID":"ES7"},"id":"ES7"},  
