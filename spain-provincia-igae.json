@@ -110,19 +110,5 @@
  
  {"arcs":[[2595]],"type":"Polygon","properties":{"NUTS_ID":"ES630","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Ciudad Autónoma de Ceuta","NUTS_LEVEL3":"Ceuta","FID":"ES630"},"id":"ES630"}, 
  
- {"arcs":[[2596]],"type":"Polygon","properties":{"NUTS_ID":"ES640","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Ciudad Autónoma de Melilla","NUTS_LEVEL3":"Melilla","FID":"ES640"},"id":"ES640"}, 
- 
- {"arcs":[[2597]],"type":"Polygon","properties":{"NUTS_ID":"ES703","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Canarias","NUTS_LEVEL3":"El Hierro","FID":"ES703"},"id":"ES703"}, 
- 
- {"arcs":[[2598]],"type":"Polygon","properties":{"NUTS_ID":"ES704","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Canarias","NUTS_LEVEL3":"Fuerteventura","FID":"ES704"},"id":"ES704"}, 
- 
- {"arcs":[[2599]],"type":"Polygon","properties":{"NUTS_ID":"ES705","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Canarias","NUTS_LEVEL3":"Gran Canaria","FID":"ES705"},"id":"ES705"}, 
- 
- {"arcs":[[2600]],"type":"Polygon","properties":{"NUTS_ID":"ES706","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Canarias","NUTS_LEVEL3":"La Gomera","FID":"ES706"},"id":"ES706"}, 
- 
- {"arcs":[[2601]],"type":"Polygon","properties":{"NUTS_ID":"ES707","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Canarias","NUTS_LEVEL3":"La Palma","FID":"ES707"},"id":"ES707"}, 
- 
- {"arcs":[[2602]],"type":"Polygon","properties":{"NUTS_ID":"ES708","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Canarias","NUTS_LEVEL3":"Lanzarote","FID":"ES708"},"id":"ES708"}, 
- 
- {"arcs":[[2603]],"type":"Polygon","properties":{"NUTS_ID":"ES709","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Canarias","NUTS_LEVEL3":"Tenerife","FID":"ES709"},"id":"ES709"}
+ {"arcs":[[2596]],"type":"Polygon","properties":{"NUTS_ID":"ES640","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Ciudad Autónoma de Melilla","NUTS_LEVEL3":"Melilla","FID":"ES640"},"id":"ES640"}
  ]}}}
