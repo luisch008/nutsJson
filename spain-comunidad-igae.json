@@ -15,8 +15,6 @@
  
  {"arcs":[[786,787,788,789]],"type":"Polygon","properties":{"NUTS_ID":"ES11","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_REGION":"NOROESTE", "NUTS_NAME":"Galicia","FID":"ES11"},"id":"ES11"}, 
  
- {"arcs":[[[846]],[[847]],[[848]],[[849]],[[850]],[[851]],[[852]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES70","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_REGION":"CANARIAS","NUTS_NAME":"Canarias","FID":"ES70"},"id":"ES70"}, 
- 
  {"arcs":[[790,791,-790,792]],"type":"Polygon","properties":{"NUTS_ID":"ES12","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_REGION":"NOROESTE", "NUTS_NAME":"Principado de Asturias","FID":"ES12"},"id":"ES12"}, 
  
  {"arcs":[[793,794,-791,795]],"type":"Polygon","properties":{"NUTS_ID":"ES13","LEVL_CODE":2,"CNTR_CODE":"ES","NUTS_REGION":"NOROESTE", "NUTS_NAME":"Cantabria","FID":"ES13"},"id":"ES13"}, 
