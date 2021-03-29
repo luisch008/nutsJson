@@ -78,17 +78,11 @@
  
  {"arcs":[[2560,2561,-2475,-2484,-2560,-2554]],"type":"Polygon","properties":{"NUTS_ID":"ES514","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Cataluña","NUTS_LEVEL3":"Tarragona","FID":"ES514"},"id":"ES514"}, 
  
- {"arcs":[[2562,-2522,2563,2564]],"type":"Polygon","properties":{"NUTS_ID":"ES521","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Comunidad Valenciana","NUTS_LEVEL3":"Alicante / Alacant","FID":"ES521"},"id":"ES521"}, 
+ {"arcs":[[2562,-2522,2563,2564]],"type":"Polygon","properties":{"NUTS_ID":"ES521","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Comunidad Valenciana","NUTS_LEVEL3":"Alicante/Alacant","FID":"ES521"},"id":"ES521"}, 
  
- {"arcs":[[-2562,2565,2566,-2476]],"type":"Polygon","properties":{"NUTS_ID":"ES522","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Comunidad Valenciana","NUTS_LEVEL3":"Castellón / Castelló","FID":"ES522"},"id":"ES522"}, 
+ {"arcs":[[-2562,2565,2566,-2476]],"type":"Polygon","properties":{"NUTS_ID":"ES522","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Comunidad Valenciana","NUTS_LEVEL3":"Castellón/Castelló","FID":"ES522"},"id":"ES522"}, 
  
- {"arcs":[[[-2567,2567,-2564,-2528,-2537,-2477]],[[-2536,-2479]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES523","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Comunidad Valenciana","NUTS_LEVEL3":"Valencia / València","FID":"ES523"},"id":"ES523"}, 
- 
- {"arcs":[[[2568]],[[2569]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES531","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Illes Balears","NUTS_LEVEL3":"Eivissa y Formentera","FID":"ES531"},"id":"ES531"}, 
- 
- {"arcs":[[2570]],"type":"Polygon","properties":{"NUTS_ID":"ES532","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Illes Balears","NUTS_LEVEL3":"Mallorca","FID":"ES532"},"id":"ES532"}, 
- 
- {"arcs":[[2571]],"type":"Polygon","properties":{"NUTS_ID":"ES533","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Illes Balears","NUTS_LEVEL3":"Menorca","FID":"ES533"},"id":"ES533"}, 
+ {"arcs":[[[-2567,2567,-2564,-2528,-2537,-2477]],[[-2536,-2479]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES523","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Comunidad Valenciana","NUTS_LEVEL3":"Valencia/València","FID":"ES523"},"id":"ES523"}, 
  
  {"arcs":[[2572,2573,2574]],"type":"Polygon","properties":{"NUTS_ID":"ES611","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Andalucía","NUTS_LEVEL3":"Almería","FID":"ES611"},"id":"ES611"}, 
  
@@ -108,7 +102,7 @@
  
  {"arcs":[[-2563,2594,-2575,-2585,-2523]],"type":"Polygon","properties":{"NUTS_ID":"ES620","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Región de Murcia","NUTS_LEVEL3":"Murcia","FID":"ES620"},"id":"ES620"}, 
  
- {"arcs":[[2595]],"type":"Polygon","properties":{"NUTS_ID":"ES630","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Ciudad Autónoma de Ceuta","NUTS_LEVEL3":"Ceuta","FID":"ES630"},"id":"ES630"}, 
+ {"arcs":[[2595]],"type":"Polygon","properties":{"NUTS_ID":"ES630","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Ceuta","NUTS_LEVEL3":"Ceuta","FID":"ES630"},"id":"ES630"}, 
  
- {"arcs":[[2596]],"type":"Polygon","properties":{"NUTS_ID":"ES640","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Ciudad Autónoma de Melilla","NUTS_LEVEL3":"Melilla","FID":"ES640"},"id":"ES640"}
+ {"arcs":[[2596]],"type":"Polygon","properties":{"NUTS_ID":"ES640","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Melilla","NUTS_LEVEL3":"Melilla","FID":"ES640"},"id":"ES640"}
  ]}}}
